@@ -1,0 +1,8 @@
+IMAGENS DA BONEQUINHA DE LUXO
+
+As 12 fotos enviadas foram incluídas em assets/images/.
+A capa usa hero.jpg. A galeria usa look-02.jpg até look-12.jpg.
+A seção de experiência usa look-03.jpg.
+
+Para substituir uma foto, mantenha o mesmo nome do arquivo.
+Use JPG, PNG ou WEBP e mantenha a extensão/nome referenciados no HTML/JS.
